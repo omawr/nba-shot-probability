@@ -34,7 +34,6 @@ Full reasoning, every ablation, and the pitfalls are in the writeup and notebook
 - `project_code.py` — end-to-end script: load, build features, fit, predict
 - `notebook.ipynb` — exploration, validation design, and all feature tests
 - `project_writeup.pdf` — written analysis
-- `ai_prompts.md` — log of AI tool use on this project
 
 Data files are not included in this repository.
 
