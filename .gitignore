@@ -1,0 +1,17 @@
+# data (provided for the project, not redistributed)
+*.csv
+*.csv.gz
+*.gz
+submission.csv
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# os
+.DS_Store
+Thumbs.db
+desktop.ini
